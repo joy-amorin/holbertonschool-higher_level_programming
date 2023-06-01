@@ -5,4 +5,4 @@ for c in range(122, 96, -1):
         print(alpha, end="")
     elif c % 2 == 0:
         alpha = chr(c)
-        print(alpha, end="")
+        print("{}".format(alpha), end="")
