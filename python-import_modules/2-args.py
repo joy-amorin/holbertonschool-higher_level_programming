@@ -4,11 +4,10 @@ from sys import argv
 
 args = argv[1:]
 
+if len(args) == 0:
 
-if len(args) == 1:
-
-    print(len(args), "argument:")
+    print("{} argument.".format(len(args)))
 else:
-    print(len(args), "arguments:")
+    print("{} arguments:".format(len(args)))
 for arg in range(len(args)):
-    print(arg + 1, ":", args[arg])
+    print("{} : {}".format(arg + 1, args[arg]))
