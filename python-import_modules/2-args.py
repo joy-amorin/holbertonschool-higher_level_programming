@@ -6,7 +6,9 @@ args = argv[1:]
 
 if len(args) == 0:
 
-    print("{} argument.".format(len(args)))
+    print("{} arguments.".format(len(args)))
+elif len(args) == 1:
+    print("{} argument:".format(len(args)))
 else:
     print("{} arguments:".format(len(args)))
 for arg in range(len(args)):
