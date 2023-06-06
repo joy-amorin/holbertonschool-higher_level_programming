@@ -9,4 +9,4 @@ def max_integer(my_list=[]):
     for num in my_list:
         if num > max_n:
             max_n = num
-            print(max_n)
+            print("{:d}".format(max_n))
