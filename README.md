@@ -1,4 +1,5 @@
-  <img src="https://apply.holbertonschool.com/holberton-logo.png">
+<img src="https://apply.holbertonschool.com/holberton-logo.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Holberton">
+
 
 # holbertonschool higher level programming
 
