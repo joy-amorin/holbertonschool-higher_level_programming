@@ -1,4 +1,5 @@
 # holbertonschool-higher_level_programming
+<img src="https://apply.holbertonschool.com/holberton-logo.png">
 
 This repository contains different Holberton School projects with the objective of learning some languages and making an final project with what you have learned.
 
