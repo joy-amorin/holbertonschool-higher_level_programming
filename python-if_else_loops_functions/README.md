@@ -2,7 +2,6 @@
 At the end of this project, you are expected to be able to ***explain to anyone***, without the help of Google:
 
 ### General
-### General
 - Why indentation is so important in Python
 - How to use the ***if***, ***if ... else*** statements
 - How to use comments
