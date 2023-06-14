@@ -1,0 +1,43 @@
+This function receives two integers and return their sum
+
+    >>> add_integer = __import__('0-add_integer').add_integer
+
+sum to integers:
+>>> add_integer(1, 2)
+3
+
+sum positive and negative number
+>>> add_integer(100, -2)
+98
+
+int + float 
+>>> add_integer(100.3, 2)
+102
+
+no argument
+>>> add_integer()
+Traceback (most recent call last):
+...
+TypeError: add_integer() missing 1 required positional argument: 'a'
+
+int + string 
+>>> add_integer(4, "School")
+Traceback (most recent call last):
+...
+TypeError: b must be an integer
+
+arg None
+>>> add_integer(None)
+Traceback (most recent call last):
+...
+TypeError: a must be an integer
+
+one argument
+>>> add_integer(2)
+100
+
+Not a Number:
+>>> add_integer(float('nan'))
+Traceback (most recent call last):
+...
+ValueError: cannot convert float NaN to integer
