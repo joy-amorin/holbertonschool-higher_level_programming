@@ -7,13 +7,8 @@ class Square:
 
     def __init__(self, size=0, position=(0, 0)):
         """init method, size attribute"""
-        if type(size) is not int:
-            raise TypeError("size must be an integer")
-        elif size < 0:
-            raise ValueError("size must be >= 0")
-        else:
-            self.__size = size
-            self.__position = position
+        self.size = size
+        self.position = position
 
     def area(self):
         """Square area"""
@@ -29,6 +24,8 @@ class Square:
         """set size """
         if type(value) is not int:
             raise TypeError("size must be an integer")
+        elif value < 0:
+            raise ValueError("size must be >= 0")
         else:
             self.__size = value
 
