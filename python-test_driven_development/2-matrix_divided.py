@@ -1,6 +1,8 @@
 #!/usr/bin/python3
+""" divides all elements of a matrix"""
 
 def matrix_divided(matrix, div):
+    """function to divides elements """
     size_r = len(matrix[0])
     for row in matrix:
         if len(row) != size_r:
