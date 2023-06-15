@@ -44,7 +44,7 @@ Traceback (most recent call last):
 ...
 TypeError: size must be an integer
 
-no arguments
+No arguments
 >>> print_square()
 Traceback (most recent call last):
 ...
