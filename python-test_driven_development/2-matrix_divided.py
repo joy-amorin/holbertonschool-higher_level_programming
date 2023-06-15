@@ -11,6 +11,9 @@ def matrix_divided(matrix, div):
     """
     function to divides elements
     """
+    if type(matrix) != list:
+        raise TypeError("matrix must be a matrix "
+                        "(list of lists) of integers/floats")
 
     size_r = len(matrix[0])
     for row in matrix:
