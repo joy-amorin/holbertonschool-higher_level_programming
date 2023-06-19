@@ -55,6 +55,6 @@ class Rectangle:
             perimeter
             """
             perimeter = 2*(self._width + self.__height)
-            if width == 0 or height == 0:
+            if self.__width == 0 or self.__height == 0:
                 perimeter = 0
             return perimeter
