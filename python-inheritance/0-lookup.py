@@ -1,12 +1,12 @@
 #!/usr/python3
+
 """
-function that return the list od available
-attributes amethos of an objects
+lookup moduel
 """
 
 
 def lookup(obj):
     """
-    function
+    returns the list of available attributes and methods of an object
     """
-    return list(dir(obj))
+    return dir(obj)
