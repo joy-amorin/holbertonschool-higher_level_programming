@@ -10,3 +10,7 @@
 [1, 4, 2]
 >>> my_list.print_sorted()
 [1, 2, 4]
+>>> my_list_1 = MyList()
+>>> my_list_1.print_sorted()
+[]
+
