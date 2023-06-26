@@ -1,4 +1,4 @@
-#!/usr/bin
+#!/usr/bin/python3
 """define class Rectangle"""
 from models.base import Base
 
@@ -13,5 +13,3 @@ class Rectangle(Base):
         self.__y = y
 
         super().__init__(id)
-
-        
