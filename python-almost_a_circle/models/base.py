@@ -21,7 +21,7 @@ class Base:
 
     @staticmethod
     def to_json_string(list_dictionaries):
-        """that returns the JSON string
+        """returns the JSON string
         representation of list_dictionaries
         """
         if list_dictionaries is None:
@@ -45,3 +45,13 @@ class Base:
 
         with open(filename, "w") as f:
             f.write(json_str)
+
+    @staticmethod
+    def from_json_string(json_string):
+        """returns the list of the JSON string
+        representation json_string
+        """
+
+        if json_string is None:
+            json_string = []
+        return json.loads(json_string)
