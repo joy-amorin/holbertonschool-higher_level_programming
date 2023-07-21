@@ -18,4 +18,4 @@ This repository contains different Holberton School projects with the objective 
 10. <a href="https://github.com/Joy-Amorin/holbertonschool-higher_level_programming/tree/master/python-everything_is_object">python-everything_is_object</a>
 11. <a href="https://github.com/Joy-Amorin/holbertonschool-higher_level_programming/tree/master/python-inheritance">python-inheritance</a>
 12. <a href="https://github.com/Joy-Amorin/holbertonschool-higher_level_programming/tree/master/python-input_output">python-input_output</a>
-13.<a href="https://github.com/Joy-Amorin/holbertonschool-higher_level_programming/tree/master/python-almost_a_circle">python-almost_a_circle</a>
+13. <a href="https://github.com/Joy-Amorin/holbertonschool-higher_level_programming/tree/master/python-almost_a_circle">python-almost_a_circle</a>
