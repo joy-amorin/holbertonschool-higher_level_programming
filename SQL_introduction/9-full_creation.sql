@@ -6,7 +6,6 @@ CREATE TABLE IF NOT EXISTS `second_table`(
     `SCORE` INT,
     PRIMARY KEY (`ID`)
 );
-DELETE FROM second_table;
 
 INSERT INTO second_table (name, score) VALUES ("John", 10);
 INSERT INTO second_table (name, score) VALUES ("Alex", 3);
