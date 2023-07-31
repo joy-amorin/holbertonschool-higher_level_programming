@@ -5,7 +5,7 @@ import MySQLdb
 from sys import argv
 
 
-def select_stetes():
+def select_states():
     db = MySQLdb.connect(host="localhost", user=argv[1],
                          password=argv[2], db=argv[3])
     cur = db.cursor()
@@ -16,4 +16,4 @@ def select_stetes():
 
 
 if __name__ == "__main__":
-    select_stetes()
+    select_states()
