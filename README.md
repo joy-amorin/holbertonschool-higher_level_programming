@@ -1,4 +1,10 @@
+![Añadir un poco de texto (1)](https://github.com/Joy-Amorin/holbertonschool-higher_level_programming/assets/113919575/4ba3a2bd-e246-455d-ace8-5dac23fd5c72)
+
+
+
+
 # holbertonschool higher level programming
+
 
 This repository contains different Holberton School projects with the objective of learning some languages and making an final project with what you have learned.
 
