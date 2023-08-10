@@ -12,7 +12,7 @@ This repository contains different Holberton School projects with the objective 
 4. <a href="https://github.com/Joy-Amorin/holbertonschool-higher_level_programming/tree/master/python-data_structures">python-data_structures</a>
 5. <a href="https://github.com/Joy-Amorin/holbertonschool-higher_level_programming/tree/master/python-more_data_structures">python-more_data_structures</a>
 6. <a href="https://github.com/Joy-Amorin/holbertonschool-higher_level_programming/tree/master/python-exceptions">python-exceptions</a>
-7. <a href="https://github.com/Joy-Amorin/holbertonschool-higher_level_programming/tree/master/python-classes">python-classes</a>
+7. <a href="https://github.com/Joy-Amorin/holbertonschool-higher_level_programming/tree/master/python-classes">python-classes and objects</a>
 8. <a href="https://github.com/Joy-Amorin/holbertonschool-higher_level_programming/tree/master/python-test_driven_development">python-test_driven_development</a>
 9. <a href="https://github.com/Joy-Amorin/holbertonschool-higher_level_programming/tree/master/python-more_classes">python-more_classes and objects</a>
 10. <a href="https://github.com/Joy-Amorin/holbertonschool-higher_level_programming/tree/master/python-everything_is_object">python-everything_is_object</a>
