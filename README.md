@@ -1,4 +1,10 @@
+![Añadir un poco de texto (1)](https://github.com/Joy-Amorin/holbertonschool-higher_level_programming/assets/113919575/4ba3a2bd-e246-455d-ace8-5dac23fd5c72)
+
+
+
+
 # holbertonschool higher level programming
+
 
 This repository contains different Holberton School projects with the objective of learning some languages and making an final project with what you have learned.
 
@@ -12,7 +18,7 @@ This repository contains different Holberton School projects with the objective 
 4. <a href="https://github.com/Joy-Amorin/holbertonschool-higher_level_programming/tree/master/python-data_structures">python-data_structures</a>
 5. <a href="https://github.com/Joy-Amorin/holbertonschool-higher_level_programming/tree/master/python-more_data_structures">python-more_data_structures</a>
 6. <a href="https://github.com/Joy-Amorin/holbertonschool-higher_level_programming/tree/master/python-exceptions">python-exceptions</a>
-7. <a href="https://github.com/Joy-Amorin/holbertonschool-higher_level_programming/tree/master/python-classes">python-classes</a>
+7. <a href="https://github.com/Joy-Amorin/holbertonschool-higher_level_programming/tree/master/python-classes">python-classes and objects</a>
 8. <a href="https://github.com/Joy-Amorin/holbertonschool-higher_level_programming/tree/master/python-test_driven_development">python-test_driven_development</a>
 9. <a href="https://github.com/Joy-Amorin/holbertonschool-higher_level_programming/tree/master/python-more_classes">python-more_classes and objects</a>
 10. <a href="https://github.com/Joy-Amorin/holbertonschool-higher_level_programming/tree/master/python-everything_is_object">python-everything_is_object</a>
